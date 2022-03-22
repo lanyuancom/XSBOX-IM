@@ -28,12 +28,12 @@ PC端：C#，VS2019
 #### 安装教程
 ##### 视频教程
 
-![Image text](xsbox-im视频教程.png
+![Image text](xsbox-im视频教程.png)
 
 ##### 文档教程
 
 
-![Image text](文档教程.png
+![Image text](文档教程.png)
 
 #### 使用说明
 
