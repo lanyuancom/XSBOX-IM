@@ -14,11 +14,26 @@
 软件架构说明
 <div id="software-function" class="module-container container-lg px-lg-0"><section class="module"><div class="table-box"><table class="table text-left mb-0"><thead class="table-thead text-dark font-size-14 font-weight-bold"><tr><th colspan="2">运行环境</th></tr></thead><tbody><tr class="text-dark font-size-14"><td>服务端操作系统</td><td>CentOS 7.0 64位以上，采用XMPP协议；视频服务器采用ubuntu 16.04</td></tr><tr class="text-dark font-size-14"><td>服务端所需软件</td><td>jdk1.8+mongodb3.4.0+Tigase7.1.4+Redis4.01+Nginx1.9.1+Rocketmq4.3.2</td></tr><tr class="text-dark font-size-14"><td>Windows电脑视频通话版</td><td>windows7系统及以上系统且安装了.Net framework4.6.1及以上</td></tr><tr class="text-dark font-size-14"><td>Windows电脑标准版</td><td>windowsXP系统及以上系统且安装了.Net framework4.0及以上</td></tr><tr class="text-dark font-size-14"><td>安卓手机版</td><td>Android系统5.0及其以上</td></tr><tr class="text-dark font-size-14"><td>苹果手机版、MacOS版</td><td>iOS9.0以上、MacOS系统10.12以上</td></tr><tr class="text-dark font-size-14"><td>电脑网页版</td><td>首选FireFox、Chrome，其次Safari浏览器，最后Internet Explorer 11.0或以上（但不支持多媒体功能）</td></tr><tr class="text-dark font-size-14"><td>手机端网页版</td><td>Android 5.0以上，iOS9.0以上，系统自带浏览器部分功能无法使用</td></tr><tr class="text-dark font-size-14"><td>微信小程序版</td><td>Android微信版本最低6.5.21、IOS微信版本最低6.5.19</td></tr></tbody></table></div></section><section><div class="table-box"><table class="table text-left mb-0"><thead class="table-thead text-dark font-size-14 font-weight-bold"><tr><th colspan="2">编译环境</th></tr></thead><tbody><tr class="text-dark font-size-14"><td>服务端</td><td>IDEA，采用Java语言，使用Java spring boot框架,spring-data-mongodb,Redisson</td></tr><tr class="text-dark font-size-14"><td>Windows电脑视频通话版</td><td>windows7系统及以上系统,采用C#语言,Winform平台,SDK为agsXMPP,Visual Studio 2015以上,.Net framework4.6.1及以上</td></tr><tr class="text-dark font-size-14"><td>Windows电脑标准版</td><td>windows7系统及以上系统,采用C#语言,Winform平台,SDK为agsXMPP,Visual Studio 2015以上,.Net framework4.0及以上</td></tr><tr class="text-dark font-size-14"><td>安卓手机版</td><td>Windows/Linux/Mac系统，Android Studio 3.4.1及其以上，采用Java语言，SDK为Smack</td></tr><tr class="text-dark font-size-14"><td>苹果手机版、MacOS版</td><td>Xcode9.x以上，采用Objective-C语言，SDK为XMPPFramework</td></tr><tr class="text-dark font-size-14"><td>电脑网页版</td><td>IDEA，采用JavaScript语言，bootstrap+JQuery框架，SDK为BOSH+Strophe</td></tr><tr class="text-dark font-size-14"><td>手机端网页版</td><td>框架（Vue+Vuex+Vue-Router）打包工具（Webpack4）UI框架（Vux）SDK（BOSH+Strophe）</td></tr><tr class="text-dark font-size-14"><td>微信小程序版</td><td>微信开发者工具，调试基础库2.8.0以上，采用JavaScript语言，SDK为WSS+Strophe</td></tr><tr class="text-dark font-size-14"><td>视频聊天</td><td>Web+NodeJS+React Native+JavaScript</td></tr></tbody></table></div></section></div>
 
-#### 安装教程
+#### 环境说明
+安卓端 : android   studio        
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+苹果: xcode
+
+后台：idea
+
+web端：JAVA  
+
+PC端：C#，VS2019
+
+#### 安装教程
+##### 视频教程
+
+![Image text](xsbox-im视频教程.png
+
+##### 文档教程
+
+
+![Image text](文档教程.png
 
 #### 使用说明
 
