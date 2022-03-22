@@ -6,12 +6,10 @@
 <h5>
 xsbox-im 小盒即时通讯软件，客户端全套开源,不加任何限制，可个人，可商业，可二次开发，随意使用
 2021最新4合1即时通讯IM源码 服务端 PC WEB 安卓 IOS完整原生源码，视频安装教程，文档安装教程等等
-</h5>
-<font color='red'>注意：视频和文档在QQ群文档，欢迎进群讨论</font>
-
-
+</h5><6>
+<font color='red'>注意：视频和文档在QQ群文档，欢迎进群讨论</font></h6>
+<br/>
 ![Image text](vido.png)
-
 
 
 ![Image text](source.png)
