@@ -2,12 +2,12 @@
 
 #### 介绍
 
-#### 置顶信息
-QQ交流群 <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=DImeiPohGv3F_hn_j4-8DhpG0BM00J6_&jump_from=webapi"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="蓝缘系统②" title="蓝缘系统②"></a>（主要是对即时通讯技术，服务端开发感兴趣）入群说明一下，发广告的会踢出群的
-
-#### OIM说明
+#### xsbox-im说明
 xsbox-im 是一套即时通讯的聊天系统，在这里献给大家，一方面希望能够帮助对即时通讯有兴趣研究的朋友，希望我们能够共同进步，另一个就是希望能够帮助到需要即时通讯系统的朋友或者企业，可以直接使用或者二次开发。可以用于公司内网、外网通讯、客服系统等，聊天系统。OIM项目可用于任何商业、个人作品中并且希望能够保留作者信息。如果OIM能够帮助到您，请点赞好评，加个星。
 
+一套完善的消息推送框架，可应用于信令推送，即时聊天，移动设备指令推送等领域。开发者可沉浸于业务开发，不用关心消息通道长连接、消息编解码协议等繁杂处理。
+
+xsbox-im 采用业内主流开源技术构建，易于扩展和使用，并完美支持集群部署支持海量链接，目前支持websocket，android，ios，桌面应用，系统应用等多端接入持,可应用于移动应用，物联网，智能家居，嵌入式开发，桌面应用，WEB应用即时消服务
 
 
 
@@ -63,3 +63,13 @@ PC端：C#，VS2019
 
 
 ![Image text](5.png)
+
+
+#### 置顶信息
+QQ交流群 832072638  <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=DImeiPohGv3F_hn_j4-8DhpG0BM00J6_&jump_from=webapi"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="蓝缘系统②" title="蓝缘系统②"></a>
+（主要是对即时通讯技术，服务端开发感兴趣）入群说明一下，发广告的会踢出群的
+
+官方技术交流QQ群(先star,后打赏加群):832072638 (请先star后，打赏50以上加群，加群邀请时提供码账号，否则不给通过。)
+
+
+![Image text](weixinpay.jpg)
