@@ -1,6 +1,16 @@
 # xsbox-im
 
 #### 介绍
+
+#### 置顶信息
+QQ交流群 <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=DImeiPohGv3F_hn_j4-8DhpG0BM00J6_&jump_from=webapi"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="蓝缘系统②" title="蓝缘系统②"></a>（主要是对即时通讯技术，服务端开发感兴趣）入群说明一下，发广告的会踢出群的
+
+#### OIM说明
+xsbox-im 是一套即时通讯的聊天系统，在这里献给大家，一方面希望能够帮助对即时通讯有兴趣研究的朋友，希望我们能够共同进步，另一个就是希望能够帮助到需要即时通讯系统的朋友或者企业，可以直接使用或者二次开发。可以用于公司内网、外网通讯、客服系统等，聊天系统。OIM项目可用于任何商业、个人作品中并且希望能够保留作者信息。如果OIM能够帮助到您，请点赞好评，加个星。
+
+
+
+
 <h1>客户端</h1>
 
 ![Image text](客户端.png)
@@ -38,7 +48,7 @@ PC端：C#，VS2019
 
 ![Image text](文档教程.png)
 
-#<h1>运行效果</h1> 
+<h1>运行效果</h1> 
 
 ![Image text](1.png)
 
