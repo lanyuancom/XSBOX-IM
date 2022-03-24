@@ -119,7 +119,7 @@ PC端：C#，VS2019
 #### 置顶信息
 
 <h3>
-QQ交流群 832072638  <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=DImeiPohGv3F_hn_j4-8DhpG0BM00J6_&jump_from=webapi"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="蓝缘系统②" title="蓝缘系统②"></a>
+QQ交流群 832072638 
 （主要是对即时通讯技术，服务端开发感兴趣）入群说明一下，发广告的会踢出群的
 </h3><h3>
 交流QQ群(先star,后打赏加群):832072638 (请先star后，打赏 50 以上加群，加群邀请时提供码账号，否则不给通过。)
